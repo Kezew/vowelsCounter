@@ -1,0 +1,2 @@
+# vowelsCounter
+magánhangzó számláló 
